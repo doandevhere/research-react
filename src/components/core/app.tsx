@@ -1,9 +1,7 @@
-import Routes from "@/components/core/routes"
+import Routes from "@/components/core/routes";
 
 function App() {
-  return (
-    <Routes />
-  )
+  return <Routes />;
 }
 
-export default App
+export default App;
